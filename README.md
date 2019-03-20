@@ -6,3 +6,4 @@
 * It has no build systems and you could just run it with any Python IDE.
 
 * For libraries, it uses numpy and pyyaml. Users also need to install one program like TensorFlow, Theano or CNTK.
+<img src="https://github.com/ec500-software-engineering/case-study-liuknan/raw/master/requirements.png" width="600" height="600">
