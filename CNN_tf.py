@@ -60,7 +60,7 @@ def run_cnn():
     tf.summary.scalar('accuracy', accuracy)
 
     merged = tf.summary.merge_all()
-    writer = tf.summary.FileWriter('C:\\Users\\Andy\\PycharmProjects')
+    writer = tf.summary.FileWriter('./')
     with tf.Session() as sess:
         # initialise the variables
         sess.run(init_op)
