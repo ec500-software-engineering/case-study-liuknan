@@ -30,3 +30,5 @@ Also see case study.key
 ### Demonstration
 see CNN.py and CNN_tf.py. These two files process same data with Keras and tensorflow. In Case Study.key,
  I show the difference between these two files.
+ ![](https://github.com/ec500-software-engineering/case-study-liuknan/raw/master/result.png)
+ ![](https://github.com/ec500-software-engineering/case-study-liuknan/raw/master/acc.png)
