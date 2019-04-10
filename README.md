@@ -28,4 +28,5 @@ Also see case study.key
 * For issue #3921, some words are pretty confusing in Keras. For instance, “Merge” and “merge” are two total different things. “Merge” is a layer and takes layers as input, and “merge” is a function and it takes tensors as input. 
 
 ### Demonstration
-see main.py
+see CNN.py and CNN_tf.py. These two files process same data with Keras and tensorflow. In Case Study.key,
+ I show the difference between these two files.
