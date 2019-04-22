@@ -19,7 +19,9 @@ Also see case study.key
 
 * The core data structure of Keras is a model, a way to organize layers. The simplest type of model is the Sequential model, a linear stack of layers. 
 
-*Work flow shows below
+* And .travis as well, for Travis-CI.
+
+* Work flow shows below
 ![](https://github.com/ec500-software-engineering/case-study-liuknan/raw/master/keras-workflow.jpg)
 
 ### Defects
